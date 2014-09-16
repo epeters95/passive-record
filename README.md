@@ -1,3 +1,3 @@
-After the project, you can review the solution here:
+**Passive Record
 
-* https://github.com/appacademy-solutions/active_record_lite/tree/solution
+A simpler version of the ActiveRecord database interaction tool
